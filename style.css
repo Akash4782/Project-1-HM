@@ -1,0 +1,17 @@
+hr{
+    color: red;
+    border: 2px solid green;
+}
+h1{
+    background-color: aqua;
+ }
+ .heading1{
+    color: white;
+    background-color: black;
+ } 
+   .div1 , .div2{
+        background-color: aqua;
+        height: 14rem;
+        width: 15rem;
+        /* border: 1px solid black; */
+   }
